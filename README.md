@@ -1,3 +1,3 @@
 # ProjectLight
 
-Developed with Unreal Engine 4
+2019 (c) unSAME Studio
