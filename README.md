@@ -1,3 +1,3 @@
 # ProjectLight
 
-2019 (c) unSAME Studio
+2019-2020 (c) unSAME Studio
